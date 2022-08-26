@@ -118,5 +118,18 @@ section {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 30px;
   padding: 30px;
+}
+.container{
+  margin: auto;
+  max-width: 900px;
+}
+.gallery{
+  max-width: 900px;
+  display: inline-flex;
+  justify-content: center;
+  padding: 10px;
+  flex-wrap: wrap;
+  margin: auto;
+  gap: 12px;
 
 }
