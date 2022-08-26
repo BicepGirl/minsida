@@ -32,6 +32,11 @@ a{
   text-decoration: none;
 
 }
+.active{
+  text-decoration: underline;
+  letter-spacing: 3px;
+
+}
 
 a:hover{
   text-decoration: underline;
@@ -112,4 +117,5 @@ section {
   padding: 30px;
 
 }
+
 
