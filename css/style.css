@@ -31,7 +31,7 @@ li{
 
 a{
   color: white;
-  text-decoration: none;git
+  text-decoration: none;
 }
 .active{
   font-weight: bold;
@@ -145,4 +145,8 @@ h2{
 }
 h1{
   font-family: 'Raleway', sans-serif;
+}
+
+.spaceHolder{
+  height: 100px;
 }
