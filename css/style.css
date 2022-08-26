@@ -117,7 +117,7 @@ section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 30px;
-  padding: 30px;
+  padding-top: 20px;
 }
 .container{
   margin: auto;
@@ -132,4 +132,18 @@ section {
   margin: auto;
   gap: 12px;
 
+}
+.personality{
+  border: 1px solid;
+  padding: 10px;
+  background: rgba(999,999,999,0.1);
+  border-radius: 20px;
+}
+h2{
+  font-size: 1em;
+  font-weight: bold;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-family: 'Raleway', sans-serif;
 }
