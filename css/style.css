@@ -5,7 +5,7 @@ html{
 }
 body{
   color: white;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'relway', sans-serif;
   background: linear-gradient(153deg, rgba(109, 48, 153, 1), rgba(249, 165, 89, 1)) fixed;
 
 }
@@ -22,7 +22,6 @@ li{
   padding: 10px;
   height: 30px;
   color: white;
-  font-weight: bold;
   text-align: center;
 
 }
@@ -34,7 +33,7 @@ a{
 }
 .active{
   letter-spacing: 3px;
-  font-weight: lighter;
+  font-weight: bold;
 
 }
 
@@ -48,6 +47,7 @@ a:hover{
   background: rgba(999,999,999,0.1);
   max-width: 900px;
   margin: auto;
+  font-family: 'Source Sans Pro', sans-serif;
 
 }
 
