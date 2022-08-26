@@ -33,13 +33,12 @@ a{
 
 }
 .active{
-  text-decoration: underline;
   letter-spacing: 3px;
+  font-weight: lighter;
 
 }
 
 a:hover{
-  text-decoration: underline;
   font-weight: bold;
   color: rgba(249,165,89,1);
 }
